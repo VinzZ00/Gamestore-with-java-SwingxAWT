@@ -1,0 +1,13 @@
+Struk Pembelian 
+
+Struk ID : 13
+Game ID : 10
+Nama Game : dota2
+Pembuat Game : elvin
+Genre Game : role
+Harga Game : 2000
+Harga Game : 2000
+Kuantitas Game : 2
+Total Pembelian : 4000
+Uang yang dibayarkan : 5000
+Kembaliannya : 1000
